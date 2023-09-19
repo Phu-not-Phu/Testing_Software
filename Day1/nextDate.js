@@ -57,6 +57,8 @@ function main() {
     output: process.stdout,
   });
 
+  let test;
+
   result(readline);
 }
 main();
